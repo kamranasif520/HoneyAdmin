@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/HoneyAdmin/static/css/main.5f361e03.chunk.css",
+    "main.js": "/HoneyAdmin/static/js/main.6978e974.chunk.js",
+    "main.js.map": "/HoneyAdmin/static/js/main.6978e974.chunk.js.map",
+    "runtime-main.js": "/HoneyAdmin/static/js/runtime-main.8d78f664.js",
+    "runtime-main.js.map": "/HoneyAdmin/static/js/runtime-main.8d78f664.js.map",
+    "static/css/2.9fbc10f0.chunk.css": "/HoneyAdmin/static/css/2.9fbc10f0.chunk.css",
+    "static/js/2.ce535658.chunk.js": "/HoneyAdmin/static/js/2.ce535658.chunk.js",
+    "static/js/2.ce535658.chunk.js.map": "/HoneyAdmin/static/js/2.ce535658.chunk.js.map",
+    "index.html": "/HoneyAdmin/index.html",
+    "precache-manifest.81525b2a268a04821e7dd157804cc05b.js": "/HoneyAdmin/precache-manifest.81525b2a268a04821e7dd157804cc05b.js",
+    "service-worker.js": "/HoneyAdmin/service-worker.js",
+    "static/css/2.9fbc10f0.chunk.css.map": "/HoneyAdmin/static/css/2.9fbc10f0.chunk.css.map",
+    "static/css/main.5f361e03.chunk.css.map": "/HoneyAdmin/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.ce535658.chunk.js.LICENSE.txt": "/HoneyAdmin/static/js/2.ce535658.chunk.js.LICENSE.txt",
+    "static/media/black.jpg": "/HoneyAdmin/static/media/black.703b1152.jpg",
+    "static/media/honey.jpg": "/HoneyAdmin/static/media/honey.714267c8.jpg",
+    "static/media/index.css": "/HoneyAdmin/static/media/roboto-latin-900italic.ebf6d164.woff2"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8d78f664.js",
+    "static/css/2.9fbc10f0.chunk.css",
+    "static/js/2.ce535658.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.6978e974.chunk.js"
+  ]
+}
