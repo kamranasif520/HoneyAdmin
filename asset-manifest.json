@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/HoneyAdmin/static/css/main.5f361e03.chunk.css",
-    "main.js": "/HoneyAdmin/static/js/main.64a216e4.chunk.js",
-    "main.js.map": "/HoneyAdmin/static/js/main.64a216e4.chunk.js.map",
+    "main.js": "/HoneyAdmin/static/js/main.04a024cb.chunk.js",
+    "main.js.map": "/HoneyAdmin/static/js/main.04a024cb.chunk.js.map",
     "runtime-main.js": "/HoneyAdmin/static/js/runtime-main.8d78f664.js",
     "runtime-main.js.map": "/HoneyAdmin/static/js/runtime-main.8d78f664.js.map",
     "static/css/2.9fbc10f0.chunk.css": "/HoneyAdmin/static/css/2.9fbc10f0.chunk.css",
     "static/js/2.7021dd80.chunk.js": "/HoneyAdmin/static/js/2.7021dd80.chunk.js",
     "static/js/2.7021dd80.chunk.js.map": "/HoneyAdmin/static/js/2.7021dd80.chunk.js.map",
     "index.html": "/HoneyAdmin/index.html",
-    "precache-manifest.8ed9d0f23acbd6fe62994ad14fefa22c.js": "/HoneyAdmin/precache-manifest.8ed9d0f23acbd6fe62994ad14fefa22c.js",
+    "precache-manifest.4d347ccaffc7bdb1e63d0f82fd2d40f2.js": "/HoneyAdmin/precache-manifest.4d347ccaffc7bdb1e63d0f82fd2d40f2.js",
     "service-worker.js": "/HoneyAdmin/service-worker.js",
     "static/css/2.9fbc10f0.chunk.css.map": "/HoneyAdmin/static/css/2.9fbc10f0.chunk.css.map",
     "static/css/main.5f361e03.chunk.css.map": "/HoneyAdmin/static/css/main.5f361e03.chunk.css.map",
@@ -23,6 +23,6 @@
     "static/css/2.9fbc10f0.chunk.css",
     "static/js/2.7021dd80.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.64a216e4.chunk.js"
+    "static/js/main.04a024cb.chunk.js"
   ]
 }

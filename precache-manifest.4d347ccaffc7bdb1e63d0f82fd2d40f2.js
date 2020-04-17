@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c966222c970fa787617c351b5c434cd8",
+    "revision": "44968cb2d90d284b8dda0823714b783b",
     "url": "/HoneyAdmin/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/HoneyAdmin/static/css/2.9fbc10f0.chunk.css"
   },
   {
-    "revision": "dd6a776886f22ba5d744",
+    "revision": "904fc5f8e711e271ec02",
     "url": "/HoneyAdmin/static/css/main.5f361e03.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/HoneyAdmin/static/js/2.7021dd80.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "dd6a776886f22ba5d744",
-    "url": "/HoneyAdmin/static/js/main.64a216e4.chunk.js"
+    "revision": "904fc5f8e711e271ec02",
+    "url": "/HoneyAdmin/static/js/main.04a024cb.chunk.js"
   },
   {
     "revision": "009ddf312946e7f57e9d",
